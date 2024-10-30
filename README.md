@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Hamzaalhadithy
+- 👋 Hi, I’m HAMZAH AL-HADEETHI
 - 👀 I’m interested in Front-end Developing and Flutter frame work 
-- 🌱 I’m currently learning Mobile Apps using Flutter framework 
-- 💞️ I’m looking to collaborate on Nothing for Now 
-- 📫 How to reach me hamzaalseade@gmail.com 
+- 🌱 I’m currently doing Software Engineering 
+- 📫 How to reach me hamzaabdalgabar@gmail.com
 
 <!---
 Hamzaalhadithy/Hamzaalhadithy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
